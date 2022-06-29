@@ -1,0 +1,7 @@
+name: getPing
+main: com.Lin_morning.Plugin.main.getPing
+version: 1.1
+author: Lin_morning
+commands:
+  ping:
+    description: get player ping value
