@@ -1,0 +1,16 @@
+name: kickMessage
+main: com.Lin_morning.Plugin.main.kickM
+version: 1.0.1
+description: OP kick players(append message)
+author: Lin_morning
+commands:
+  kickM:
+    description: kick players(append message)
+permissions:
+  kickM.command.*:
+    description: kickM's commands' permissions
+    children:
+      kickM.command.kickPlayer: true
+  kickM.command.kickPlayer:
+    description: /kickM Command permission
+    default: op
