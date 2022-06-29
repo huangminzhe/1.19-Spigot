@@ -1,0 +1,7 @@
+Join_message: '&l&8[&a+&r&l&8]&r '
+Left_message: '&l&8[&c-&r&l&8]&r '
+UUID: '%player_uuid%'
+Player_world: '%player_world_type%'
+x: '%player_x%'
+y: '%player_y%'
+z: '%player_z%'

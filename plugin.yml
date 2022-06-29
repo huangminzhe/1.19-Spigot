@@ -1,0 +1,7 @@
+name: Join_and_Left
+main: com.Lin_morning.Plugin.main.Join_and_Left
+version: 1.0.2
+description: Player Join event and Left event
+author: Lin_morning
+depend:
+  - PlaceholderAPI
